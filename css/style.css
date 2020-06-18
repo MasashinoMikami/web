@@ -1,0 +1,26 @@
+@charset "UTF-8";
+h1{
+    color: #0bd;
+}
+body p{
+    line-height: normal;
+}
+body{
+    background-color: rgb(52, 162, 212);
+}
+.blue{
+    color: cadetblue;
+}
+.black{
+    color: black;
+}
+.item{
+    background: #0bd;
+    color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+}
